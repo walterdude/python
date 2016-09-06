@@ -1,6 +1,8 @@
 # -*-coding:utf-8 -*
 """module multipli contenant la fonction table"""
 
+import os
+
 def table(nb, max=10):
 	"""Fonction affichant la table de multiplication par nb de
 	1 * nb jusqu'a max * nb"""
